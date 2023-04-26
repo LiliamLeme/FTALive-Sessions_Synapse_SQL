@@ -2,7 +2,7 @@
 
 ### Data Lake, Delta and Lakehouse overview
 
-[Home](https://github.com/LiliamLeme/FTALive-Sessions_Synapse_SQL/blob/main/content/data/ModernDatawarehouse-Security/Agenda.md)- [Next >](https://github.com/LiliamLeme/FTALive-Sessions_Synapse_SQL/blob/main/cont)
+[Home](https://github.com/LiliamLeme/FTALive-Sessions_Synapse_SQL/blob/main/content/data/ModernDatawarehouse-Security/Agenda.md)- [Next >](https://github.com/LiliamLeme/FTALive-Sessions_Synapse_SQL/blob/main/content/data/ModernDatawarehouse-Security/Storage.md)
 
 
 
